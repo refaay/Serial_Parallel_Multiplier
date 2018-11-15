@@ -1,0 +1,1 @@
+{"boardId":"ICE40UP5K-B-EVN","boardName":"iCE40 UltraPlus Breakout","pins":["a","b","s","carry"],"unassignedPins":[],"assignedPins":{"a":"23","b":"25","s":"27","carry":"26"},"boardOpt":"up5k","pnrOpt":"sg48"}
